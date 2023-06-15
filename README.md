@@ -1,6 +1,6 @@
 # 리눅스 채팅 서버 및 클라이언트 (2019) 
 
-![Main Screenshot](https://jtj8412.github.io/resources/imgs/linux-chat/main.png)  
+![Main Screenshot](imgs/main.png)  
 
 ## Features  
 - 서버 구동 및 클라이언트 접속
